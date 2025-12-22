@@ -1,3 +1,17 @@
+### 3.9.9
+- Added options for square and rhombus shape for drag handles
+- Update drag handle style on page on settings change
+- Snap tooltip position to horizontal boundaries of text selection
+- Made selection handles shorter and more compact
+- Improved dates detection for the Calendar button
+- Fixed words not being counted in text fields
+- Show "Clear" button for selected text in text fields
+- Fix for text field panel reappearing after button click
+- Fix for tooltip showing when click on readonly sell in Google spreadsheet
+- Small fixes for Markers functionality
+- Small tweaks for "scale up from bottom" tooltip reveal effect
+- Added Simplified Chinese translations (by [@TheoShira](https://github.com/TheoShira))
+
 ### 3.9.8
 - Updated style of Translate and Dictionary hover popups
 - Fixed search buttons in the main panel getting color inverted
