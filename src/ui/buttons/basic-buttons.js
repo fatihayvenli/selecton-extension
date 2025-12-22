@@ -6,6 +6,10 @@ function addBasicTooltipButtons(layout) {
         const isContentEditable = textField.getAttribute('contenteditable') !== null;
 
         if (selection.toString() !== '') {
+
+            /// Prevent showing when clicked a readonly cell in Google spreadsheet
+            if (selection.toString().trim().length == 0) return;
+
             try {
                 /// Add a cut button 
                 addBasicTooltipButton(cutLabel, cutButtonIcon, function () {
