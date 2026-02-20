@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "SelectON — selection popup. Copy & search",
-  "version": "3.9.9",
+  "version": "3.9.91",
   "author": "emvaized",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",

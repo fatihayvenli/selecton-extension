@@ -1,3 +1,10 @@
+### 3.9.91
+- Ignore clicks on textarea with readonly param
+- Removed excessive console logging when debug mode enabled
+- Updated zh-TW translations (by [@YheonYeung](https://github.com/YheonYeung))
+- Added 円 keyword for JPY currency (by [NamelessContributor](https://github.com/NamelessContributor))
+- Small fixes and improvements
+
 ### 3.9.9
 - Added options for square and rhombus shape for drag handles
 - Update drag handle style on page on settings change

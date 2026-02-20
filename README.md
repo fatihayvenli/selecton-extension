@@ -1,21 +1,17 @@
-<!-- # <sub><img src="./src/assets/icons/logo-new.png" height="48" width="48"></sub> SelectON — text selection popup -->
 ### <img src="./screenshots/banner.png" alt="SelectON — Customizable pop-up on text selection" >
 
 [![Changelog](https://img.shields.io/chrome-web-store/v/pemdbnndbdpbelmfcddaihdihdfmnadi?label=version&color=yellow)](./CHANGELOG.md)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pemdbnndbdpbelmfcddaihdihdfmnadi?label=users&logo=googlechrome&logoColor=white&color=blue)](https://chrome.google.com/webstore/detail/selection-actions/pemdbnndbdpbelmfcddaihdihdfmnadi)
-[![Mozilla Add-on](https://img.shields.io/amo/users/selection-actions?color=%23FF6611&label=users&logo=Firefox)](https://addons.mozilla.org/firefox/addon/selection-actions/)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/pemdbnndbdpbelmfcddaihdihdfmnadi)](https://chrome.google.com/webstore/detail/selecton/pemdbnndbdpbelmfcddaihdihdfmnadi/reviews)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/pemdbnndbdpbelmfcddaihdihdfmnadi?style=flat&label=reviews)](https://chrome.google.com/webstore/detail/selecton/pemdbnndbdpbelmfcddaihdihdfmnadi/reviews)
+[![Mozilla Add-on](https://img.shields.io/amo/users/selection-actions?color=%23FF6611&label=users&logo=Firefox)](https://addons.mozilla.org/firefox/addon/selection-actions/)
 ![Created](https://img.shields.io/github/created-at/emvaized/selecton-extension?color=purple&label=created)
 [![Support this project](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F_Support_this_project-grey)](https://github.com/emvaized/selecton-extension?tab=readme-ov-file#donate)
-<!-- [![Support project](https://shields.io/badge/Ko--fi-Donate-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized) -->
-<!-- [![Patreon](https://shields.io/badge/Patreon-Become_a_patron-f76859?logo=Patreon)](https://patreon.com/emvaized) -->
 
 
 
-<!-- > Customizable pop-up with action buttons on text selection! -->
 ### Features
-* Copy or search any text in one click - especially useful for laptops
+* Copy or search any text in one click — especially useful for laptops
 * Customizable appearance for tooltip and custom text selection color
 * Currency converter (supports 30+ currencies & 10+ crypto currencies)
 * Basic units converter (metric/imperial) and timezones conversion
@@ -42,13 +38,12 @@
 
 </details>
 
-
 ## FAQ
 
 Moved to the Wiki page – [read here](https://github.com/emvaized/selecton-extension/wiki/FAQ-(Frequently-Asked-Questions))
 
 ## Donate
-If you really enjoy this project, please consider supporting its further development by making a small donation using one of the ways below! 
+If you really enjoy this project, please consider supporting its further development with a small donation! 
 
 <a href="https://ko-fi.com/emvaized"><img src="https://storage.ko-fi.com/cdn/kofi5.png?v=6" alt="Support on Ko-fi" height="40"></a> &nbsp; <a href="https://patreon.com/emvaized"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/assets/patreon-donate-button.png?raw=true" alt="Patreon" height="40" /></a> &nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
 
@@ -123,6 +118,7 @@ Also, you can always write me an [email](mailto:maximtsyba@gmail.com) to share y
 - [ ] Cloud sync of settings using browser account sync
 - [ ] Ability to turn on/off background blur for tooltip and hover panels
 - [ ] Make separate tab for markers in the extension popup, with separate category for markers for currently open page
+- [ ] Translation and Search buttons for text fields
 
 ## Building
 - `npm install` to install all dependencies
